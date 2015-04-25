@@ -1,0 +1,8 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"email.field.placeholder" = "Эл почта";
+"pass.field.placeholder" = "Пароль";
+"confirmpass.field.placeholder" = "Подтвердить пароль";
+"login.button.title" = "Войти";
